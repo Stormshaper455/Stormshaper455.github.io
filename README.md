@@ -1,42 +1,16 @@
-<div align="center">
+# Joshua Wilson · Portfolio Repository
 
-# 🌐 Stormshaper455.github.io
+This repository is reserved for my GitHub Pages portfolio. It currently contains portfolio documentation and custom-domain configuration.
 
-### Personal developer website for Joshua Wilson
+## Explore my work
 
-![Portfolio](https://img.shields.io/badge/Type-Developer%20Portfolio-0A66C2)
-![GitHub Pages](https://img.shields.io/badge/Hosted%20with-GitHub%20Pages-222222?logo=github)
+| Project | Focus |
+| --- | --- |
+| [Staff Manager](https://github.com/Stormshaper455/My-projects-/tree/main/python-sql-staff-manager) | Python, SQLite, employee CRUD operations, and integration checks |
+| [Cloud Notes API](https://github.com/Stormshaper455/My-projects-/tree/JSON) | JavaScript handler samples for AWS Lambda, API Gateway, and DynamoDB |
+| [Java Applications & Data Structures](https://github.com/Stormshaper455/School) | Graph algorithms, linked structures, and JavaFX coursework |
+| [Java Fundamentals](https://github.com/Stormshaper455/MyWork) | Input, arithmetic, methods, and control-flow exercises |
 
-</div>
+I am seeking **software engineering internships and junior developer opportunities**. My current work centers on connecting application code to persistent data and strengthening programming fundamentals.
 
----
-
-## 👋 About
-
-This repository hosts my personal developer website and portfolio through **GitHub Pages**.
-
-The site is intended to showcase my software development work, projects, technical interests, and continued growth across areas such as cloud computing, AI, web development, and interactive applications.
-
-## 🚀 Portfolio Focus
-
-- Software development projects
-- Cloud and AWS work
-- AI and local assistant projects
-- Web development
-- Game and interactive development
-- Coursework and technical experiments
-
-## 🔗 GitHub
-
-You can explore the rest of my work from my main profile:
-
-[**github.com/Stormshaper455**](https://github.com/Stormshaper455)
-
----
-
-<div align="center">
-
-**Joshua Wilson**  
-*Build. Learn. Create. Improve.*
-
-</div>
+[View my GitHub profile](https://github.com/Stormshaper455) · [Open the project index](https://github.com/Stormshaper455/My-projects-)
